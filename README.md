@@ -1,7 +1,6 @@
 # Weather App 🌤️🌧️
 
-A simple and intuitive weather app built with React.js that allows users to check current weather conditions based on their location or any city of their choice.
-
+A simple and intuitive weather app built with **React.js** that allows users to check current weather conditions based on their location or any city of their choice. This app is styled using **_Material UI_**, a popular React component library for building responsive and modern UIs.
 ## Features:
 - 🌍 Real-time weather data retrieval using an external API
 - 🌡️ Display temperature, humidity, wind speed, and weather conditions
