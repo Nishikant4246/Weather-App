@@ -9,9 +9,8 @@ A simple and intuitive weather app built with React.js that allows users to chec
 - 🌞 Interactive and responsive UI for a smooth experience
 
 
-## Active Link Section:
 
-# Demo Img: ![Image Alt]()
+# Demo Img: ![Image Alt](https://github.com/Nishikant4246/Weather-App/blob/main/Output%20Img.png)
 
 
 ## Follow Me on 😉  :computer:
